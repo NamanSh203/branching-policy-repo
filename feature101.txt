@@ -1,3 +1,5 @@
 This is a sample file with the first edit
 
 This is an addition from feature102 branch
+
+This is the third line in this file
